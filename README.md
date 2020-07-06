@@ -1,14 +1,14 @@
-# [BudgetTracker](https://github.com/jaredhennessy/BudgetTracker)
+# [Budget Tracker](https://github.com/jaredhennessy/BudgetTracker)
 
 ![JavaScript](https://img.shields.io/static/v1?label=made%20with&message=JavaScript&color=informational) ![MIT](https://img.shields.io/static/v1?label=license&message=MIT&color=brightgreen)
 
 ## Description
 
-a budget tracket application that allows for offline access and functionality
+a budget tracking application that allows for offline access and functionality
 
 ## Demo
 
-[URL](https://budget-tracker-jh-demo.herokuapp.com/)
+[URL](https://budget-tracker-jh-demo.herokuapp.com/) / [video]()
 
 ## Table of Contents
 
