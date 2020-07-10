@@ -8,7 +8,7 @@ a budget tracking application that allows for offline access and functionality
 
 ## Demo
 
-[URL](https://budget-tracker-jh-demo.herokuapp.com/) / [video]()
+[URL](https://budget-tracker-jh-demo.herokuapp.com/) / [video](https://drive.google.com/file/d/1i23LvA8hV0D078YCoK_BHQHdSKAAdeWC/view)
 
 ## Table of Contents
 
